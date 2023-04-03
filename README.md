@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I am Chaitanya Basava
+
+
+- 💬 Ask me about **coding**, **movies**, **video games**
+- 📫 How to reach me: @[LinkedIn](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/)
 
 <!--
-**chaitanya-basava/chaitanya-basava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chaitnayabasava/chaitnayabasava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📝 <a href="https://drive.google.com/file/d/1RerlZojd0hoQrBvK0cUUxNJHzGnVT1YU/view?usp=sharing" target="_blank">Resume</a>
 -->
