@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **coding**, **movies**, **video games**
 - 📫 How to reach me: @[LinkedIn](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/)
+- 📝 <a href="https://drive.google.com/file/d/1jHUfBVVXDT-dilajwVlHC28AgDqfxS2A/view?usp=sharing" target="_blank">Resume</a>
+- 🌱 I’m currently learning about distributed system protocols
 
 <!--
 **chaitnayabasava/chaitnayabasava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
