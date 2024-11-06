@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Chaitanya Basava
 
-I am actively looking for Summer 2024 Software Internships in the United States.
+I am actively looking for Software and Data Engineer roles in the United States.
 
 - 💬 Ask me about **coding**, **movies**, **video games**
 - 📫 How to reach me: @[LinkedIn](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/)
