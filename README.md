@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Chaitanya Basava
 
-I am actively looking for Software and Data Engineer roles in the United States. Currently working as a software engineering intern at [Copart](https://www.copart.com/).
+I am actively looking for Software and Data Engineer roles in the United States. Currently working as a seniot MTS at [Oracle](https://oracle.com/).
 
 - 💬 Ask me about **coding**, **movies**, **video games**
 - 📫 How to reach me: @[LinkedIn](https://www.linkedin.com/in/chaitu-basava/)
